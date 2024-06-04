@@ -16,7 +16,7 @@
 - Integers (1, 2, 3, 0, -5, 12312, ...) whole numbers
 - Floats (3.5, -4.12, .7.124124) - decimal
 - Strings ("Hello", "123456", "") - plain text
-- Boolean (just like binary, 0's and 1's) - a data type which only has 2x possibilities. True or false
+- Boolean (just like binary, 0's and 1's) - a data type which only has 2x possible values. True or false (1 = true, 0 = false)
 
 ## Variables
 
